@@ -1,8 +1,10 @@
 # hyperskill-Multilingual-Online-Translator
-Translation tool using https://context.reverso.net/translation service to translate words into 13 different langugges
+## Translation tool using https://context.reverso.net/translation service to translate words into 13 different languages
+It additionally gives examples of common phrases using the requested word for translation 
 
 From the command line type:
-**python translator.py "lang_source" "lang_target" "word_to_translate"**
+
+```python translator.py *"lang_source"* *"lang_target"* *"word_to_translate"*```
 
 Supported languages are:
 - Arabic
@@ -19,16 +21,16 @@ Supported languages are:
 - Russian
 - Turkish
                    
-if "lang_target" equals "all", then "word_to_translate" will be translated into the other 12 supported langugges.
+if *"lang_target"* equals "all", then *"word_to_translate"* will be translated into the other 12 supported langugges.
 
-Translation reports are saved into a txt file named "word_to_translate".txt
+Translation reports are saved into a txt file named **"word_to_translate".txt**
 
 
 EXAMPLE 1:
 
 ```python translator.py english spanish programming``` 
 
-OUTPUTS a txt file named programming.txt with the same content printed to the console:
+OUTPUTS a txt file named *programming.txt* with the same content printed to the console:
 
 Spanish Translations:
 programación
@@ -57,7 +59,7 @@ EXAMPLE 2:
 
 ```python translator.py english all programming```
 
-OUTPUTS a txt file named programming.txt with the same content printed to the console as follows:
+OUTPUTS a txt file named *programming.txt* with the same content printed to the console as follows:
 
 Arabic Translations:
 برمجة
