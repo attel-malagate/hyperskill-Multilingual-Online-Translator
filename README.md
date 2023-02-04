@@ -4,7 +4,7 @@ It additionally gives examples of common phrases using the requested word for tr
 
 From the command line type:
 
-```python translator.py *"lang_source"* *"lang_target"* *"word_to_translate"*```
+```python translator.py lang_source lang_target word_to_translate```
 
 Supported languages are:
 - Arabic
