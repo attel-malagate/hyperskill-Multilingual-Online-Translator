@@ -33,6 +33,7 @@ EXAMPLE 1:
 OUTPUTS a txt file named *programming.txt* with the same content printed to the console:
 
 Spanish Translations:
+
 programación
 programa
 programador
@@ -40,6 +41,7 @@ programar
 programando
 
 Spanish Examples:
+
 He also helped with the programming and editing of our site.
 Él también ayudó con la programación y el corregir de nuestro sitio.
 
@@ -62,6 +64,7 @@ EXAMPLE 2:
 OUTPUTS a txt file named *programming.txt* with the same content printed to the console as follows:
 
 Arabic Translations:
+
 برمجة
 برنامج
 برمجية
@@ -69,6 +72,7 @@ Arabic Translations:
 برنامجية
 
 Arabic Examples:
+
 Computer programming can be an intimidating topic or career to learn.
 يمكن أن تكون برمجة الكمبيوتر موضوعًا تخويفًا أو مهنة للتعلم.
 
@@ -85,6 +89,7 @@ Just like programming, graphic design needs a lot of practice.
 تماماً مثل الطهي، تتطلب البرمجة قدراً كبيراً من الإبداع.
 
 German Translations:
+
 Programmierung
 Programmieren
 Programmiersprache
@@ -92,6 +97,7 @@ Programm
 Programmplanung
 
 German Examples:
+
 Prerequisites Basic knowledge of programming electronic controllers.
 Voraussetzungen Grundlagenkenntnisse der Programmierung von elektronischen Steuerungen, Programmierkenntnisse in der Hochsprache „C".
 
@@ -108,6 +114,7 @@ The course about assembler programming was guided by me.
 Der Sonderkurs über die Programmierung von x86 Assembler wurde von mir geleitet.
 
 Spanish Translations:
+
 programación
 programa
 programador
@@ -115,6 +122,7 @@ programar
 programando
 
 Spanish Examples:
+
 He also helped with the programming and editing of our site.
 Él también ayudó con la programación y el corregir de nuestro sitio.
 
@@ -131,6 +139,7 @@ It goes without saying that graft is incompatible with my programming.
 No hace falta decir que injertar no es compatible con mi programación.
 
 French Translations:
+
 programmation
 programme
 émission
@@ -138,6 +147,7 @@ informatique
 programmant
 
 French Examples:
+
 We will return to our regularly scheduled programming immediately following this report.
 Nous reprendrons notre programmation normale... immédiatement après ce rapport.
 
@@ -154,6 +164,7 @@ Astral commented on the request to broadcast category 15 programming.
 Astral a commenté la demande de diffuser des émissions de catégorie 15.
 
 Hebrew Translations:
+
 תוכנה
 תוכנית
 תכנון
@@ -161,6 +172,7 @@ Hebrew Translations:
 תיכנות
 
 Hebrew Examples:
+
 I don't see how linear programming would help.
 אני לא רואה איך תואר מתקדם בהנדסת תוכנה יעזור.
 
@@ -177,6 +189,7 @@ What's really bugging me now is my daytime programming.
 מה שבאמת מטריד אותי עכשיו זהו תכנות שעות היום שלי.
 
 Japanese Translations:
+
 プログラミング
 プログラム
 番組
@@ -184,6 +197,7 @@ Japanese Translations:
 計画
 
 Japanese Examples:
+
 Linux distributions support dozens of programming languages.
 ほとんどのLinuxディストリビューションは、何十ものプログラミング言語をサポートしている。
 
@@ -200,6 +214,7 @@ Some programming languages directly support unit testing.
 直接単体テストをサポートしているプログラミング言語もある。
 
 Dutch Translations:
+
 programmering
 programmeren
 programma
@@ -207,6 +222,7 @@ planning
 programmatuur
 
 Dutch Examples:
+
 Efforts and procedures for achieving joint programming should be reinforced.
 De inspanningen en procedures om gezamenlijke programmering te bewerkstelligen, moeten worden versterkt.
 
@@ -223,6 +239,7 @@ Unfortunately, that programming was crude.
 Spijtig genoeg, was zijn programma niet correct.
 
 Polish Translations:
+
 programowanie
 program
 oprogramowanie
@@ -230,6 +247,7 @@ programowy
 programistyczny
 
 Polish Examples:
+
 Joint programming shall be implemented whenever possible and relevant.
 Wspólne programowanie stosuje się zawsze, gdy jest to możliwe i właściwe.
 
@@ -246,6 +264,7 @@ You don't require sophisticated programming.
 To nic skomplikowanego, ani nie wymaga zaawansowanego oprogramowania.
 
 Portuguese Translations:
+
 programação
 programa
 programador
@@ -253,6 +272,7 @@ programar
 programando
 
 Portuguese Examples:
+
 Heavy duty machining requires knowledgeable programming.
 A usinagem para serviço pesado exige conhecimento para a sua programação.
 
@@ -269,6 +289,7 @@ They discovered its simple 20th-century programming... collect all data possible
 Elas descobriram sua simples programação do século 20... colete todos os dados possíveis.
 
 Romanian Translations:
+
 programare
 program
 planificare
@@ -276,6 +297,7 @@ programator
 programat
 
 Romanian Examples:
+
 India can have our programming jobs.
 India poate avea locuri de muncă noastre de programare.
 
@@ -292,6 +314,7 @@ The programming is mapped and loaded.
 Programarea este mapat? i inc? rcat.
 
 Russian Translations:
+
 программирование
 программы
 программист
@@ -299,6 +322,7 @@ Russian Translations:
 разработки
 
 Russian Examples:
+
 Network programming seems easier than it is.
 Вообще, сетевое программирование кажется легче, чем оно есть на самом деле.
 
@@ -315,6 +339,7 @@ The programming assignments will require that you've had some experience program
 Для заданий на программирование требуется, чтобы у вас был некоторый опыт в программировании, потому что у нас не курс программирования.
 
 Turkish Translations:
+
 programlama
 program
 programcı
@@ -322,6 +347,7 @@ kodlama
 programlı
 
 Turkish Examples:
+
 Choosing a programming language and getting started.
 Sonrasında bir programlama dili tercih eder ve çalışmalara başlarsınız.
 
