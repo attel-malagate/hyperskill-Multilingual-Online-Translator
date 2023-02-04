@@ -2,21 +2,31 @@
 Translation tool using https://context.reverso.net/translation service to translate words into 13 different langugges
 
 From the command line type:
-python translator.py "lang_source" "lang_target" "word_to_translate"
+**python translator.py "lang_source" "lang_target" "word_to_translate"**
 
-Supported langs are:
-supported_langs = {"1": "Arabic", "2": "German", "3": "English", "4": "Spanish", "5": "French", "6": "Hebrew", "7": "Japanese",
-                   "8": "Dutch", "9": "Polish", "10": "Portuguese", "11": "Romanian", "12": "Russian", "13": "Turkish"}
+Supported languages are:
+- Arabic
+- German
+- English
+- Spanish
+- French
+- Hebrew
+- Japanese
+- Dutch
+- Polish
+- Portuguese
+- Romanian
+- Russian
+- Turkish
                    
 if "lang_target" equals "all", then "word_to_translate" will be translated into the other 12 supported langugges.
 
 Translation reports are saved into a txt file named "word_to_translate".txt
 
 
-
 EXAMPLE 1:
 
-python translator.py english spanish programming 
+```python translator.py english spanish programming``` 
 
 OUTPUTS a txt file named programming.txt with the same content printed to the console:
 
@@ -45,7 +55,7 @@ No hace falta decir que injertar no es compatible con mi programación.
 
 EXAMPLE 2:
 
-python translator.py english all programming
+```python translator.py english all programming```
 
 OUTPUTS a txt file named programming.txt with the same content printed to the console as follows:
 
